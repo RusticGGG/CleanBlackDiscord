@@ -4,12 +4,9 @@
 A Custom Discord Theme to be Dark, Clean and Simple.
 
 
-## Screenshots
+## 📸 Screenshots
 
 ![App Screenshot](https://raw.githubusercontent.com/RusticGGG/CleanBlackDiscord/main/Images/ThemeScreenshot.png)
-
-
-## Installation
 
 ## 📥 Installation
 
