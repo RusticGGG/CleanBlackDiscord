@@ -11,11 +11,14 @@ A Custom Discord Theme to be Dark, Clean and Simple.
 
 ## Installation
 
-### Vencord
-1. Open settings, go to themes and paste the following link:
-```bash
-https://raw.githubusercontent.com/RusticGGG/CleanBlackDiscord/main/cleanblack.theme.css
-```
+## 📥 Installation
+
+<br/>
+<div align="left">
+    <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45">
+    <b><p align="left">Vencord</b>
+    <br/>Copy <code>https://raw.githubusercontent.com/RusticGGG/CleanBlackDiscord/main/cleanblack.theme.css</code> into the box in Settings > Themes > Themes tab </p>
+</div><br/>
     
 ## Authors
 
