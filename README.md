@@ -17,3 +17,6 @@ A Custom Discord Theme to be Dark, Clean and Simple.
 https://raw.githubusercontent.com/RusticGGG/CleanBlackDiscord/main/cleanblack.theme.css
 ```
     
+## Authors
+
+- [@RusticGGG](https://www.github.com/RusticGGG)
